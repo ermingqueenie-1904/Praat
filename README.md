@@ -214,4 +214,4 @@ Praat is offered as a complete free version with all features and updates includ
 Unlock your potential in phonetics with Praat — download today and start exploring the sounds of language!
 
 ---
-**Last updated:** 2026-11-05 21:38:02 UTC
+**Last updated:** 2026-11-06 01:51:25 UTC
